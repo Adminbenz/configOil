@@ -1,4 +1,5 @@
 {
     "status": 200,  
-    "apiurl" :"http://147.50.151.19:8081/mosmobile/"
+    "apiurl" :"http://147.50.151.19:8081/mosmobile/",
+    "mass":"getdata"
 }
